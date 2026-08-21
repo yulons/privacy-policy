@@ -1,4 +1,105 @@
-Privacy Policy for Legend Run. 
-We do not collect, store, or share any personal information. 
-The app only uses data necessary for gameplay and analytics. 
-For questions, contact us at: ngochuy2603@gmail.com
+# Privacy Policy for Legend Run
+
+**Last updated: 20 August 2026**
+
+Legend Run ("the app", "we", "us") is developed and published by Steven. This
+policy explains what data the app processes, why, and who it is shared with.
+
+## Summary
+
+Legend Run has no user accounts, no login, and no server of our own. Your game
+progress never leaves your device. The app does, however, display third-party
+advertising and collects anonymous usage analytics, and those services process
+some data about your device. The details are below.
+
+## Data stored on your device only
+
+The following is saved locally on your device using the operating system's
+standard app storage, and is **never transmitted to us or to anyone else**:
+
+- Your high scores and the Top 10 leaderboard, including any nickname you
+  choose to enter
+- Your selected visual theme and weather settings
+- Sound and performance preferences
+- Whether you have seen the tutorial
+
+The in-app leaderboard is a **local leaderboard**. It ranks only the scores
+achieved on your own device. There is no global or online leaderboard, and we
+operate no server that receives your scores. Deleting the app removes this data
+permanently. You can also clear it at any time from the leaderboard screen.
+
+## Advertising
+
+The app displays advertisements supplied by **Google AdMob**. To serve ads,
+Google may collect and process:
+
+- Your device's advertising identifier (IDFA on iOS, Advertising ID on Android)
+- Device and connection information, such as device model, operating system
+  version, language, and coarse location derived from IP address
+- Information about your interaction with advertisements
+
+On iOS, before any advertising identifier is used for tracking, the app
+presents Apple's **App Tracking Transparency** prompt and asks for your
+permission.
+
+- If you **allow** tracking, Google may use your advertising identifier to show
+  you personalised advertisements.
+- If you **decline**, the app requests non-personalised advertisements. You will
+  still see ads, but they will not be based on your advertising identifier.
+
+You can change this choice at any time in **Settings → Privacy & Security →
+Tracking** on iOS.
+
+Google's handling of this data is governed by their own policies:
+
+- Google Privacy Policy: https://policies.google.com/privacy
+- How Google uses information from partner sites and apps:
+  https://policies.google.com/technologies/partner-sites
+
+## Analytics
+
+The app uses **Google Firebase Analytics** to understand how the game is used
+in aggregate — for example how many players start a run, which themes are
+chosen, and where players stop playing. This data is collected in a form that
+does not identify you personally, and includes anonymous event names, an
+app-instance identifier, device model, operating system version, and country.
+
+We use this only to improve the game. Firebase Analytics is provided by Google
+and is subject to the Google Privacy Policy linked above.
+
+## Data we do not collect
+
+We do not collect your name, email address, phone number, contacts, photos,
+precise location, or any other personal information. The app has no sign-up,
+no messaging, no user-generated content, and no social features.
+
+## Children's privacy
+
+Legend Run is not directed to children under 13. We do not knowingly collect
+personal information from children under 13. If you believe a child has
+provided personal information through the app, contact us at the address below
+and we will address it.
+
+## Sharing your information
+
+We do not sell your data. We do not share your data with anyone other than the
+service providers named above (Google AdMob and Google Firebase Analytics),
+who process it on the terms of their own privacy policies.
+
+## Your rights and choices
+
+- **Advertising tracking:** iOS — Settings → Privacy & Security → Tracking.
+  Android — Settings → Google → Ads.
+- **Local data:** clear your scores from the leaderboard screen, or delete the
+  app to remove all locally stored data.
+
+## Changes to this policy
+
+If this policy changes materially, we will update the "Last updated" date at
+the top of this page and publish the revised version at the same address.
+
+## Contact
+
+Questions about this policy can be sent to:
+
+**ngochuy2603@gmail.com**
