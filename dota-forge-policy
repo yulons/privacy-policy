@@ -1,4 +1,23 @@
-Privacy Policy for Dota Forge. 
-We do not collect, store, or share any personal information. 
-The app only uses data necessary for gameplay and analytics. 
-For questions, contact us at: ngochuy2603@gmail.com
+Privacy Policy for Dota Forge
+
+Dota Forge is an unofficial companion app for Dota 2 and is not affiliated with Valve. This policy explains what data the app and the services it uses handle.
+
+What the app does not ask for. There is no account. We do not ask for your name, email address or phone number.
+
+Player lookups. When you search for a player, the nickname or account ID you enter is sent to the OpenDota API (opendota.com) to retrieve public match data. Your favorites, role preferences, language, reminder time and cached data are stored only on your device.
+
+Third-party services.
+
+Google AdMob shows ads and may use your advertising identifier, IP address and device/app information to serve and measure them. On iOS, the app asks for your permission through App Transparency Tracking. Users in the EEA and UK are asked for consent, and can change their choice in Settings → Privacy settings. See how Google uses data: https://policies.google.com/technologies/partner-sites
+Firebase Analytics records how the app is used (screens viewed, features used) along with an app-instance identifier, device model, OS version and approximate location (country).
+Firebase Crashlytics collects crash reports and diagnostic information such as device model and OS version.
+Images and data are loaded from Steam's CDN and GitHub.
+Notifications. The optional daily reminder is scheduled locally on your device.
+
+Your choices. You can turn off ad personalization or tracking in your device settings, decline the tracking prompt, change your ad consent in Settings, or uninstall the app to remove local data. To ask about your data, contact us.
+
+Children. The app is not directed at children under 13 (16 in the EEA).
+
+Changes. We may update this policy; the effective date above will change.
+
+Contact. ngochuy2603@gmail.com
