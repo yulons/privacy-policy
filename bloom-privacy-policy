@@ -1,0 +1,141 @@
+# Privacy Policy — Bloom
+
+**Status: draft, not yet published.** Both Apple App Store Connect and
+Google Play Console require a live, publicly reachable URL to a privacy
+policy before an app can be submitted — this document is the source text.
+Before submitting to either store:
+
+1. Fill in the bracketed placeholders below (`[developer/company name]`,
+   `[support email]`, `[effective date]`).
+2. Publish this text at a public URL (GitHub Pages, Notion public page, a
+   one-page site — anything that loads without a login). Google Play in
+   particular re-crawls the URL periodically and will flag the listing if
+   it ever goes offline or 404s.
+3. Put that URL into:
+   - App Store Connect → App Privacy → Privacy Policy URL
+   - Play Console → App content → Privacy policy
+
+**Important — Bloom is a hybrid case, unlike either sibling game.** Color
+Mix Sort's draft was written after its real integrations were live;
+Fade's was written entirely ahead of its (still fully placeholder)
+integrations. Bloom is neither: **analytics and crash reporting are
+already real and active**, but **ads and in-app purchases are not** — ads
+currently only ever show Google's own test creatives (no real ad account
+has been registered for this game yet), and both purchases currently
+"succeed" without any real payment being processed. **Re-verify §0.1
+below against the app's actual current behavior before publishing** — if
+any row's status changes, this document has to change with it.
+
+### 0.1 What's real today vs. pending
+
+| Behavior | Status |
+|---|---|
+| Local save data (sap, biomass, upgrade levels, mutations, specimen collection, check-in streak) | Real, ships today |
+| Usage analytics (e.g. purchases, specimen shares, settings changes) | **Real**, active on real devices today |
+| Crash/error reporting | **Real**, active on real devices today |
+| Ads (Google AdMob) | Real — this game's own AdMob app is registered and release builds request live ads (development builds only ever show Google's test ads) |
+| App Tracking Transparency prompt (iOS) | **Real** (since 2026-09-27) — asked once on first launch, before any ad is requested |
+| "Remove Ads" / "Eternal Sun" purchases | Real store billing (Apple App Store / Google Play) as of 2026-09-27; both restorable |
+
+---
+
+## Privacy Policy
+
+**Effective date:** [effective date]
+
+[Developer/company name] ("we", "us") operates the mobile game **Bloom**
+(the "App"). This policy explains what data the App collects, why, and
+what choices you have.
+
+### 1. Data we collect
+
+**We do not collect your name, email, phone number, or any other
+directly-identifying information.** The App has no account system and no
+login.
+
+| Data | Purpose | Collected by |
+|---|---|---|
+| App usage events (upgrade purchases, specimen shares, tree presses, IAP purchases, settings changes) | Understand which parts of the game are used, tune balance | Firebase Analytics (Google) |
+| Crash reports and error logs | Fix bugs | Firebase Crashlytics (Google) |
+| Advertising identifier (IDFA on iOS, Android Advertising ID on Android) and other device/ad-interaction data | Show ads (double-harvest, growth boost, instant-fill, mutation/seed bonuses, streak restore, interstitial), measure ad performance; may be used by our ad partner for personalized advertising if you allow tracking | Google AdMob, and AdMob's own mediated ad networks |
+| Purchase receipts | Process "Remove Ads" and "Eternal Sun" purchases and let you restore them on a new device | Apple App Store / Google Play billing |
+
+_If a new third-party service is ever added, add a row here. See §0.1
+above for which of these are live vs. still test-only/pending as of this
+writing._
+
+### 2. Data stored only on your device
+
+Your sap/seed totals, tree upgrade levels, unlocked mutations, permanent
+specimen collection, offline-harvest and boost usage counters, check-in
+streak, and sound settings are stored locally on your device only. This
+data is not sent to us and is deleted if you uninstall the App. There is
+currently no cloud save or cross-device sync.
+
+### 3. Advertising and tracking
+
+The App shows ads (an interstitial when leaving a secondary screen, an
+app-open ad, and several optional "watch a video" ads you choose to view
+in exchange for a doubled offline harvest, a temporary growth boost,
+instant-filled biomass, a bonus mutation/seed option, or a restored
+check-in streak) served through **Google AdMob**. AdMob may work with
+third-party ad networks that set their own cookies or device identifiers.
+
+**On iOS**, the App is required to show Apple's App Tracking Transparency
+prompt before using the advertising identifier for personalized ads. The
+App asks once, the first time you open it. If you decline, you'll still see
+ads, just not ones personalized to your interests; you can change your
+answer at any time in iOS Settings → Privacy & Security → Tracking.
+
+**On Android**, ads may use the Android Advertising ID unless you've
+opted out of ad personalization in your device's Google Settings.
+
+You can review Google's own privacy practices for AdMob at
+https://policies.google.com/technologies/ads.
+
+### 4. In-app purchases
+
+The App offers two purchases: "Remove Ads" (removes interstitial, banner,
+and app-open ads; harvest stays permanently doubled) and "Eternal Sun"
+(immediately maxes offline production rate and reservoir cap). Payment is
+processed entirely by Apple or Google — we never see or store your
+payment card details.
+
+### 5. Children's privacy
+
+The App is a general-audience casual idle game and is not directed at
+children under 13 (or the relevant age of consent in your country). We do
+not knowingly collect personal information from children. [If you intend
+to market this app toward children, or expect a substantial child
+audience, you must revisit this section together with Google Play's
+Families Policy and the FTC's COPPA rule — that changes what ad
+personalization and analytics are allowed and is out of scope of this
+draft.]
+
+### 6. Data retention and deletion
+
+Analytics and crash data are retained by Firebase per Google's standard
+retention settings. Since the App has no account system, there's no
+"delete my account" action — uninstalling the App removes all
+locally-stored data, and you can request deletion of any analytics data
+tied to your device by contacting us at [support email] with your
+device's advertising identifier.
+
+### 7. Your choices
+
+- **Ad personalization**: controlled by your OS-level setting (iOS App
+  Tracking Transparency; Android "Opt out of Ads
+  Personalization").
+- **Remove ads entirely**: the in-app "Remove Ads" purchase removes the
+  interstitial, banner, and app-open ads (rewarded video, which you opt
+  into per-use for a bonus, stays available since it's your choice, not an
+  interruption).
+
+### 8. Changes to this policy
+
+We may update this policy as the App changes. Material changes will be
+reflected by updating the effective date above.
+
+### 9. Contact
+
+Questions about this policy: ngochuy2603@gmail.com
