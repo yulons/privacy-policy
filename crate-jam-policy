@@ -1,0 +1,44 @@
+Effective 10 October 2026.
+
+Crate Jam is a puzzle game made by [Tên của bạn] ("we"). This policy explains what data the game and the services inside it use, and the choices you have.
+
+## What stays on your device
+
+Crate Jam has no accounts and no servers of its own. Your progress, coins, stars, boosters and settings are saved only on your device. We cannot see them, and they are deleted when you uninstall the game.
+
+## Ads
+
+The free version shows ads from Google AdMob. To choose, show and measure ads and to prevent fraud, Google may collect:
+
+- your device's advertising ID (IDFA on iOS, only if you allow tracking; Advertising ID on Android)
+- your IP address and the approximate location derived from it
+- device and app information, such as model, operating system, language and app version
+- how you interact with ads
+
+On iOS, the game asks for permission to track you across other companies' apps and websites. You can change this at any time in iOS Settings > Privacy & Security > Tracking. On Android, you can reset or delete your advertising ID in your device's Google settings.
+
+Learn how Google uses data: https://policies.google.com/technologies/partner-sites
+
+## Analytics and crash reports
+
+We use Google Firebase (Analytics and Crashlytics) to understand how the game is played, for example which levels are too hard, and to fix crashes. Firebase collects an app instance ID, device and app information, game events such as levels started and finished or items bought, and crash details. These data do not include your name, email address or contacts.
+
+## Purchases
+
+In-app purchases are handled by the App Store or Google Play. We never receive your payment details; the store only tells the game what you bought.
+
+## Sharing
+
+When you share a Daily Puzzle result, the game hands a short text to your device's share sheet. Nothing is sent unless you choose where to share it.
+
+## Children
+
+Crate Jam is not directed at children under 13, and we do not knowingly collect personal data from them.
+
+## Your rights
+
+Depending on where you live, you may have the right to access, correct or delete personal data, or to object to its use. The data above are held by the ad and analytics services, not by us; resetting your advertising ID breaks the link with past data. To make a request, or for any question about this policy, email [ngochuy2603@gmail.com].
+
+## Changes
+
+If this policy changes, the new version will be posted on this page with a new effective date.
