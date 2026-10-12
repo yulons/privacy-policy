@@ -1,10 +1,12 @@
-Effective 10 October 2026.
+Effective 12 October 2026.
 
 Crate Jam is a puzzle game made by Steven Nguyen ("we"). This policy explains what data the game and the services inside it use, and the choices you have.
 
-## What stays on your device
+## Your progress
 
-Crate Jam has no accounts and no servers of its own. Your progress, coins, stars, boosters and settings are saved only on your device. We cannot see them, and they are deleted when you uninstall the game.
+Crate Jam has no accounts and no servers of its own. Your progress, coins, stars, boosters and settings are saved on your device.
+
+If you are signed in to Game Center (iOS) or Google Play Games (Android), the game also keeps a copy of that progress as a saved game in your Game Center or Play Games account, so you can continue on a new phone. Apple (in your iCloud) or Google keeps that copy under their own privacy policies; we cannot see it. The game reads your player name from the service only to show it in Settings. Google Play Games also keeps your gamer profile and may collect usage and diagnostic data, as described in Google's privacy policy. You can sign out of Game Center or Play Games at any time; you can delete the saved game in your device's iCloud or Play Games settings.
 
 ## Ads
 
